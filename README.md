@@ -42,7 +42,7 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 ## Submitting
 Edit this file (README.md) and complete the following:
 
-- URL to live application: 
-- What code editor are you using?
+- URL to live application: http://h2-e39.s3-website-us-east-1.amazonaws.com/
+- What code editor are you using? vim/tmux/bash for life.
 
 That is all!
